@@ -52,14 +52,12 @@ Surprise Housing wants to know
 - sklearn - 0.24.2
 
 ## Acknowledgements
-Give credit here.
-- This project was inspired by...
-- References if any...
-- This project was based on [this tutorial](https://www.example.com).
+- This project was inspired by Advanced Linear Regression Model using Lasso and Ridge regression models learning at Upgrade as part of AI/ML course.
+- This project was based on [this tutorial](https://learn.upgrad.com/course/1991/segment/25160/150983/463809/2405074).
 
 
 ## Contact
-Created by [@githubusername] - feel free to contact me!
+Created by [@kc11381] - feel free to contact me!
 
 
 <!-- Optional -->
