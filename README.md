@@ -44,11 +44,12 @@ Surprise Housing wants to know
 
 
 ## Technologies Used
-- library - version 1.0
-- library - version 2.0
-- library - version 3.0
-
-<!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
+- python - 3.9.7
+- numpy - 1.20.3
+- pandas - 1.3.4
+- matplotlib - 3.4.3
+- seaborn - 0.11.2
+- sklearn - 0.24.2
 
 ## Acknowledgements
 Give credit here.
