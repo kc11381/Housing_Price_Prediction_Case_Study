@@ -35,10 +35,23 @@ Surprise Housing wants to know
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Conclusions
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
+- Lasso regression results
+  - R2 Score
+  - Train: close to 0.9131
+  - Test: close to 0.8871
+  - alpha value: 0.0001
+  - Top 10 predictors for SalePrice are
+  - OverallCond, BsmtFullBath, 1stFlrSF, LowQualFinSF, 2ndFlrSF, MasVnrArea, BsmtFinSF1, Neighborhood_Timber, Neighborhood_NridgHt, BsmtFinSF2
+
+- Ridge regression results
+  - R2 Score
+  - Train: close to 0.9141
+  - Test: close to 0.8759
+  - alpha value: 5.0
+  - Top 10 predictors for SalePrice are
+  - OverallCond, BsmtFullBath, LowQualFinSF, 2ndFlrSF, BsmtFinSF2, BsmtFinSF1, Neighborhood_NridgHt, 1stFlrSF, Neighborhood_Timber and MasVnrArea
+
+- Recommendation is to go with Lasso Regression model.
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
