@@ -12,6 +12,7 @@ Also, determine the optimal value of lambda for ridge and lasso regression.
 
 ## Table of Contents
 * [General Info](#general-information)
+* [Data Info](#data-information)
 * [Technologies Used](#technologies-used)
 * [Conclusions](#conclusions)
 * [Acknowledgements](#acknowledgements)
@@ -26,7 +27,7 @@ Surprise Housing wants to know
 - Also the optimal value of lambda for ridge and lasso regression.
 
 
-## Data information
+## Data Information
 - They need these info to enter in Australian Market.
 - Dataset is available at: https://ml-course3-upgrad.s3.amazonaws.com/Assignment_+Advanced+Regression/train.csv
 - Also data disctionary is available at: https://cdn.upgrad.com/UpGrad/temp/87f67e28-c47e-4725-ae3c-111142c7eaba/data_description.txt 
