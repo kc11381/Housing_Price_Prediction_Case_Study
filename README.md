@@ -24,9 +24,12 @@ Surprise Housing wants to know
 - Which variables are significant in predicting the price of a house, and
 - How well those variables describe the price of a house.
 - Also the optimal value of lambda for ridge and lasso regression.
-They need these info to enter in Australian Market.
-Dataset is available at: https://ml-course3-upgrad.s3.amazonaws.com/Assignment_+Advanced+Regression/train.csv
-Also data disctionary is available at: https://cdn.upgrad.com/UpGrad/temp/87f67e28-c47e-4725-ae3c-111142c7eaba/data_description.txt 
+
+- They need these info to enter in Australian Market.
+
+- Dataset is available at: https://ml-course3-upgrad.s3.amazonaws.com/Assignment_+Advanced+Regression/train.csv
+
+- Also data disctionary is available at: https://cdn.upgrad.com/UpGrad/temp/87f67e28-c47e-4725-ae3c-111142c7eaba/data_description.txt 
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
